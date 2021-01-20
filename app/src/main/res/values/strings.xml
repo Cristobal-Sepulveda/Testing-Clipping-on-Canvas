@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClippingExample</string>
+
+    <!-- TODO 1.5 -->
+    <string name="clipping">Clipping</string>
+    <string name="translated">translated text</string>
+    <string name="skewed">"Skewed and "</string>
+</resources>
