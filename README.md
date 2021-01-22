@@ -806,6 +806,7 @@ Exercise N°16: Implement drawSkewedTextExample()
 
       private val rejectRow = rowFour + rectInset + 2*clipRectBottom
 
+  //TODO 2.18
   2. Add the following drawQuickRejectExample() function to ClippedView, and
      uncomment its invocation in onDraw(). Read the code, as it contains
      everything you need to know to use quickReject().
